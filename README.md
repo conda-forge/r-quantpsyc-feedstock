@@ -1,11 +1,11 @@
-About r-quantpsyc
-=================
+About r-quantpsyc-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-quantpsyc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=QuantPsyc
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-quantpsyc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains tools useful for data screening, testing moderation (Cohen et. al. 2003)<doi:10.4324/9780203774441>, mediation (MacKinnon et. al. 2002)<doi:10.1037/1082-989x.7.1.83> and estimating power (Murphy & Myors 2014)<ISBN:9781315773155>.
 
