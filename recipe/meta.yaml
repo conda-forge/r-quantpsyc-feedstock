@@ -1,7 +1,6 @@
 {% set version = '1.6' %}
 
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-quantpsyc
@@ -14,8 +13,7 @@ source:
   sha256: d86bf3733560272c74abf2d8c176498ea6e094fe1600a4787467a072c14072b5
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
